@@ -106,7 +106,7 @@ Make sure you have **Python 3.x** installed on your computer.
    ```bash
    python data_collector.py
 
- ## .....................................................................PROJECT 3 COMING SOON.................................................................
+ ## .....................................................................PROJECT 3 COMING SOON...........................................................
 
  Here is the plain text version of the README file that you can easily copy and paste into a README.txt file or directly into your project notes:
 
